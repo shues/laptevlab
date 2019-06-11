@@ -21,9 +21,8 @@ table{
 }
 
 .header{
-    height: 100px;
     background-color: lightgreen;
-    line-height: 100px;
+/*    line-height: 100px;*/
     padding-left: 20px;
 }
 
@@ -38,6 +37,5 @@ td, th{
 }
 
 .mainContent{
-    height: 65vh;
     vertical-align: top;
 }
